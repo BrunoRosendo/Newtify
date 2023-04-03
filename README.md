@@ -24,7 +24,7 @@ docker run -it -p 8000:80 --name=lbaw2111 -e DB_DATABASE="lbaw2111" -e DB_SCHEMA
 
 ## Usage
  
-URL to the product: http://lbaw2111.lbaw.fe.up.pt
+URL to the product: http://lbaw2111.lbaw.fe.up.pt (private VPN required)
  
 #### Administration Credentials
 
